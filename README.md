@@ -1,6 +1,6 @@
 # 안녕하세요! 👋 
 
-Spring Boot와 React를 공부하는 개발자입니다. 백엔드와 프론트엔드 모두에 관심이 있어 풀스택 개발자를 목표로 하고 있습니다.
+Spring Boot와 React를 공부하는 사람입니다. 백엔드와 프론트엔드 모두에 관심이 있어 풀스택 개발자를 목표로 하고 있습니다.
 
 ## 🛠 기술 스택
 
@@ -21,8 +21,8 @@ Spring Boot와 React를 공부하는 개발자입니다. 백엔드와 프론트�
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 GitHub 통계
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seungrok-J&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungrok-J&layout=compact&theme=radical)
 
 ## 🚀 프로젝트
 
