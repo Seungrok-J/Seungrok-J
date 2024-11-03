@@ -40,4 +40,4 @@ Spring Boot와 React를 공부하는 사람입니다. 백엔드와 프론트엔�
 
 ## 📫 연락처
 - 이메일: [이메일 주소]
-- 블로그: [블로그 주소]
+- 블로그: [https://seungrokjeong.tistory.com/]
