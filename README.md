@@ -26,23 +26,36 @@ Spring Boot와 React를 공부하는 사람입니다. 여러가지 공부 중
 
 ## 🚀 Project
 
+### 📋 게시판 프로젝트
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-- **프로젝트명**: 
-- **사용 기술**: Spring Boot, React, MySQL
-- **설명**: [프로젝트 설명 입력]
-- **링크**: [레포지토리 링크]
+> 보안에 중점을 둔 게시판 시스템 개발
+- Spring Security를 활용한 견고한 회원가입 및 인증 시스템 구현
+- PostgreSQL을 활용한 데이터베이스 설계 및 구축
+- 서버 아키텍처 설계 및 구현
 
+📎 [프로젝트 둘러보기](https://github.com/Seungrok-J/Posts_project)
 
-- **프로젝트명**: [프로젝트명 입력]
-- **사용 기술**: [사용 기술 입력]
-- **설명**: [프로젝트 설명 입력]
-- **링크**: [레포지토리 링크]
+### 🏢 건축 설계 도우미
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
+> 건축 설계 지원 올인원 솔루션
+- 맞춤형 도면 추천 알고리즘 개발
+- 실시간 견적 계산 시스템 구현
+- GPT API 연동을 통한 지능형 챗봇 서비스 제공
+- 사용자 친화적 인터페이스 설계
 
-- **프로젝트명**: Saas 레몬베이스 리버스 엔지니어링
-- **사용 기술**: Springboot, React
-- **설명**: 처음 리엑트 활용 및 레몬베이스 리버스 엔지니어링
-- **링크**: https://github.com/Seungrok-J/Interim-project
+📎 [프로젝트 둘러보기](https://github.com/Seungrok-J/FinalProject)
+
+### 💼 레몬베이스 클론 프로젝트
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+> SaaS 플랫폼 레몬베이스 리버스 엔지니어링
+- React를 활용한 첫 프론트엔드 개발 경험
+- SaaS 플랫폼의 핵심 기능 분석 및 구현
+- 컴포넌트 기반 아키텍처 설계 경험
+
+📎 [프로젝트 둘러보기](https://github.com/Seungrok-J/Interim-project)
 
 ## 📫 연락처
 - 이메일: seungrokjeong@gmail.com
