@@ -26,17 +26,17 @@ Spring Boot와 React를 공부하는 사람입니다. 여러가지 공부 중
 
 ## 🚀 Project
 
-### 📋 게시판 프로젝트
+### 게시판
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 > 보안에 중점을 둔 게시판 시스템 개발
-- Spring Security를 활용한 견고한 회원가입 및 인증 시스템 구현
-- PostgreSQL을 활용한 데이터베이스 설계 및 구축
+- RSA를 이용한 암호화 전략 이메일 인증(Google SMTP) 회원가입 및 2차 인증(2Fac TOTP) 시스템 구현
+- Redis를 이용하여 세션 및 쿠키 관리
 - 서버 아키텍처 설계 및 구현
 
 📎 [프로젝트 둘러보기](https://github.com/Seungrok-J/Posts_project)
 
-### 🏢 건축 설계 도우미
+### 건축 설계 도우미
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
 > 건축 설계 지원 올인원 솔루션
@@ -47,7 +47,7 @@ Spring Boot와 React를 공부하는 사람입니다. 여러가지 공부 중
 
 📎 [프로젝트 둘러보기](https://github.com/Seungrok-J/FinalProject)
 
-### 💼 레몬베이스 클론 프로젝트
+### 레몬베이스 클론 프로젝트
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 > SaaS 플랫폼 레몬베이스 리버스 엔지니어링
