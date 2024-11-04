@@ -34,7 +34,7 @@ Spring Boot와 React를 공부하는 사람입니다. 여러가지 공부 중
 
 📎 [프로젝트 둘러보기](https://github.com/Seungrok-J/Posts_project)
 
-### 건축 설계 도우미
+### 도면 추천, 견적 제공 프로젝트
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
 > 건축 설계 지원 올인원 솔루션
