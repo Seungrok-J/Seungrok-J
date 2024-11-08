@@ -1,4 +1,5 @@
 Spring Boot와 React를 공부하는 사람입니다. 여러가지 공부 중
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=svgo.svg&icon_color=%23CFB4B4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## 🛠 기술 스택
 
