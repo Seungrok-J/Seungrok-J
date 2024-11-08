@@ -56,6 +56,5 @@ Spring Boot와 React를 공부하는 사람입니다. 여러가지 공부 중
 
 📎 [프로젝트 둘러보기](https://github.com/Seungrok-J/Interim-project)
 
-## 📫 연락처
+## Contact
 - 이메일: seungrokjeong@gmail.com
-- 블로그: https://seungrokjeong.tistory.com/
